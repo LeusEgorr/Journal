@@ -39,7 +39,13 @@ td,th{
     border: thin dotted gray;
     padding: 5px;
 }
+th{
+    background-color: #cc6600;
+}
 caption{
     font-style: italic;
     padding-top: 8px;
+}
+.cellcolor{
+    background-color: #fcba7a;
 }
